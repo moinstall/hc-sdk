@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Honeycomb demo</string>
+    <string name="QUIT_MESSAGE">Are you sure you want to quit?</string>
+    <string name="Rate">If you enjoy playing this game,would you mind taking a moment to rate it? Thanks for your support! </string>
+    <string name="RESET_MESSAGE">Are you sure you want to reset the game?</string>
+	<string name="CHARTBOOST_GOOGLE_PLAY_APP_ID">560de64d7b22</string>
+	<string name="CHARTBOOST_GOOGLE_PLAY_APP_SIG">1f12e7c4f1e071</string>
+	<string name="CHARTBOOST_AMAZON_APP_ID">333</string>
+	<string name="CHARTBOOST_AMAZON_PLAY_APP_SIG">444</string>
+	<string name="PARSE_APPLICATION_ID">333</string>	
+	<string name="PARSE_CLIENT_KEY">2333</string>
+</resources>

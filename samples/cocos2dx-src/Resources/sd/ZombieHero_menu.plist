@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>background_menu</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {320, 480}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{320, 480}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 480}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 2}, {480, 320}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>instructions</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {320, 480}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{320, 480}</string>
+			<key>spriteSourceSize</key>
+			<string>{320, 480}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 324}, {480, 320}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>leaderboard</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52.75, 52.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{96, 646}, {52.75, 52.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>leaderboard_hold</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52.75, 52.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 959}, {52.75, 52.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>musicOff</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52.75, 52.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 795}, {52.75, 52.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>musicOff_hold</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52.75, 52.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{57, 740}, {52.75, 52.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>musicOn</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52.75, 52.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{112, 701}, {52.75, 52.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>musicOn_hold</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52.75, 52.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 904}, {52.75, 52.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>play</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {91.5, 91.5}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{91.5, 91.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{91.5, 91.5}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 646}, {91.5, 91.5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>rate</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52.75, 52.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{57, 959}, {52.75, 52.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>rate_hold</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52.75, 52.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 740}, {52.75, 52.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>soundOff</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52.75, 52.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2, 849}, {52.75, 52.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>soundOff_hold</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52.75, 52.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{57, 904}, {52.75, 52.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>soundOn</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52.75, 52.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{57, 795}, {52.75, 52.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>soundOn_hold</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {52.75, 52.75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteSourceSize</key>
+			<string>{52.75, 52.75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{57, 849}, {52.75, 52.75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>GeneratedWith</key>
+		<string>SpriteHelper</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>textureFileName</key>
+		<string>ZombieHero_menu.png</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bg_layer1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {640, 960}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{640, 960}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 960}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{4, 4}, {960, 640}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>bg_layer2</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 430}, {640, 530}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -215}</string>
+			<key>spriteSize</key>
+			<string>{640, 530}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 960}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{4, 648}, {640, 530}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>bg_layer3</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 814.5}, {640, 145.5}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -407.25}</string>
+			<key>spriteSize</key>
+			<string>{640, 145.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 960}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{648, 648}, {145.5, 640}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>bg_layer4</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 881}, {640, 79}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -440.5}</string>
+			<key>spriteSize</key>
+			<string>{640, 79}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 960}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{798, 648}, {79, 640}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>GeneratedWith</key>
+		<string>SpriteHelper</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>textureFileName</key>
+		<string>ZombieHero_backgrounds.png</string>
+	</dict>
+</dict>
+</plist>

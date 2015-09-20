@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>brain</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {79.5, 87}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{79.5, 87}</string>
+			<key>spriteSourceSize</key>
+			<string>{79.5, 87}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{798, 72}, {79.5, 87}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>platform</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {640, 200}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{640, 200}</string>
+			<key>spriteSourceSize</key>
+			<string>{640, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{4, 4}, {640, 200}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>red_center</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {75, 75}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{75, 75}</string>
+			<key>spriteSourceSize</key>
+			<string>{75, 75}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{882, 72}, {75, 75}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>stick</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {10.5, 960}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{10.5, 960}</string>
+			<key>spriteSourceSize</key>
+			<string>{10.5, 960}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{4, 208}, {960, 10.5}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>zombie_anim_0</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2.5, 10}, {75.5, 149}}</string>
+			<key>spriteOffset</key>
+			<string>{1.25, -5}</string>
+			<key>spriteSize</key>
+			<string>{75.5, 149}</string>
+			<key>spriteSourceSize</key>
+			<string>{78, 159}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{648, 4}, {75.5, 149}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombie_anim_1</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2.5, 14}, {63, 144.5}}</string>
+			<key>spriteOffset</key>
+			<string>{-5, -6.75}</string>
+			<key>spriteSize</key>
+			<string>{63, 144.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{78, 159}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{798, 4}, {144.5, 63}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>zombie_anim_2</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{2.5, 7.5}, {54, 151}}</string>
+			<key>spriteOffset</key>
+			<string>{-9.5, -3.5}</string>
+			<key>spriteSize</key>
+			<string>{54, 151}</string>
+			<key>spriteSourceSize</key>
+			<string>{78, 159}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{968, 4}, {54, 151}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>zombie_anim_3</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {66, 155.5}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 1.75}</string>
+			<key>spriteSize</key>
+			<string>{66, 155.5}</string>
+			<key>spriteSourceSize</key>
+			<string>{78, 159}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{728, 4}, {66, 155.5}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>GeneratedWith</key>
+		<string>SpriteHelper</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>textureFileName</key>
+		<string>ZombieHero_game_objects.png</string>
+	</dict>
+</dict>
+</plist>

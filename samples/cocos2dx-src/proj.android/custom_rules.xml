@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+    name="TestDriverNDK"
+    default="help" >
+
+    <condition
+        property="ndk.dir"
+        value="${env.ANDROID_NDK_ROOT}" >
+
+        <isset property="env.ANDROID_NDK_ROOT" />
+    </condition>
+
+    <fail
+        message="ndk.dir is missing. Make sure to generate local.properties using &apos;android update project&apos; or to inject it through the NDK_HOME environment variable."
+        unless="ndk.dir" />
+
+    <target name="-pre-build" >
+
+        <exec
+            executable="${ndk.dir}/ndk-build"
+            failonerror="true" />
+    </target>
+
+    <target
+        name="clean"
+        depends="android_rules.clean" >
+
+        <exec
+            executable="${ndk.dir}/ndk-build"
+            failonerror="true" >
+
+            <arg value="clean" />
+        </exec>
+    </target>
+    
+    <target name="test" depends="android_rules.test">
+        <exec executable="./run-native-tests"
+            failonerror="false"/>
+    </target>
+
+</project>
